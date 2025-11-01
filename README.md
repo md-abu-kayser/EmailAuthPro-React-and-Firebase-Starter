@@ -119,7 +119,10 @@ Do not commit real Firebase credentials in public repos. Use environment variabl
 Expand auth flows to use secure token handling and server-side rules for sensitive operations.
 Add unit and integration tests for auth flows and components.
 
-#### Contributing
+#### Contributing and Contact
 
-Fork the repo, create a branch, and open a PR.
-Run npm run lint and npm run type-check before submitting.
+- Fork the repo, create a branch, and open a PR.
+- Run npm run lint and npm run type-check before submitting.
+- **Email:** abu.kayser.official@gmail.com
+
+---
